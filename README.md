@@ -1,17 +1,27 @@
-# Simple Python URL Shortener
+# 🔗 Flask URL Shortener
 
-A lightweight URL shortener built with **Python** and **Flask**. This project demonstrates basic routing, dynamic URL generation, and server-side redirection.
+A lightweight, efficient URL shortening service built with **Python** and **Flask**. This project demonstrates the fundamentals of web routing, dynamic ID generation, and server-side redirection.
+
+---
 
 ## 🚀 Features
-- Generate unique short IDs for long URLs.
-- Instant redirection via custom routes.
-- Minimalist web interface.
+- **Instant Shortening:** Converts long URLs into 6-character unique codes.
+- **Auto-Redirect:** Seamlessly routes short links back to their original destination.
+- **Base62 Logic:** Uses a custom string generation algorithm to ensure unique paths.
+- **Developer Friendly:** Clean, readable code optimized for learning and extensions.
 
 ## 🛠️ Tech Stack
-- **Backend:** Python 3
+- **Language:** Python 3.10+
 - **Framework:** Flask
+- **Environment:** Kali Linux / Windows / macOS
 
-## 📥 Installation & Usage
-1. Clone the repo:https://github.com/Axdrmk99/URL-shortner.git
-   ```bash 
- 
+---
+
+## 📖 How to Use
+
+Follow these steps to run the project locally on your machine:
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/Axdrmk99/URL-shortner.git](https://github.com/Axdrmk99/URL-shortner.git)
+cd URL-shortner
