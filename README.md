@@ -12,6 +12,6 @@ A lightweight URL shortener built with **Python** and **Flask**. This project de
 - **Framework:** Flask
 
 ## 📥 Installation & Usage
-1. Clone the repo:
-   ```bash
-  https://github.com/Axdrmk99/URL-shortner.git
+1. Clone the repo:https://github.com/Axdrmk99/URL-shortner.git
+   ```bash 
+ 
