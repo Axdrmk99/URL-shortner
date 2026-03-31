@@ -1,22 +1,28 @@
-# 🔗 Flask URL Shortener
+# 🔗 LinkShrink: Professional URL Shortener
 
-A lightweight, efficient URL shortening service built with **Python** and **Flask**. This project demonstrates the fundamentals of web routing, dynamic ID generation, and server-side redirection.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python: 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)
 
----
-
-## 🛠️ Tech Stack
-- **Language:** Python 3.10+
-- **Framework:** Flask
-- **OS Environment:** Kali Linux (zsh) / Windows / macOS
+A modern, high-performance URL shortening service designed with a focus on clean UI/UX and efficient redirection logic.
 
 ---
 
-## 📖 How to Use (Step-by-Step)
+## 🌟 Key Features
+- **Dynamic Shortening:** Instant conversion of long URLs into unique 6-character IDs.
+- **Smart Validation:** Automatically handles missing protocols (`http://` or `https://`).
+- **Modern Interface:** High-contrast Dark Mode UI built for developer eyes.
+- **Responsive Design:** Fully optimized for mobile and desktop browsers.
 
-Follow these exact commands in your terminal to get the project running locally:
+## 🖼️ User Interface
+The application features a slate-and-indigo aesthetic, providing a professional feel right out of the box.
 
-### 1. Clone the Repository
-Open your terminal and run:
+---
+
+## 🚀 Quick Start
+For those who want to run the application immediately:
+
 ```bash
 git clone "[https://github.com/Axdrmk99/URL-shortner.git](https://github.com/Axdrmk99/URL-shortner.git)"
 cd URL-shortner
+# See SETUP.md for detailed installation instructions
+python3 app.py
