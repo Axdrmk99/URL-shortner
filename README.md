@@ -4,24 +4,19 @@ A lightweight, efficient URL shortening service built with **Python** and **Flas
 
 ---
 
-## 🚀 Features
-- **Instant Shortening:** Converts long URLs into 6-character unique codes.
-- **Auto-Redirect:** Seamlessly routes short links back to their original destination.
-- **Base62 Logic:** Uses a custom string generation algorithm to ensure unique paths.
-- **Developer Friendly:** Clean, readable code optimized for learning and extensions.
-
 ## 🛠️ Tech Stack
 - **Language:** Python 3.10+
 - **Framework:** Flask
-- **Environment:** Kali Linux / Windows / macOS
+- **OS Environment:** Kali Linux (zsh) / Windows / macOS
 
 ---
 
-## 📖 How to Use
+## 📖 How to Use (Step-by-Step)
 
-Follow these steps to run the project locally on your machine:
+Follow these exact commands in your terminal to get the project running locally:
 
 ### 1. Clone the Repository
+Open your terminal and run:
 ```bash
-git clone [https://github.com/Axdrmk99/URL-shortner.git](https://github.com/Axdrmk99/URL-shortner.git)
+git clone "[https://github.com/Axdrmk99/URL-shortner.git](https://github.com/Axdrmk99/URL-shortner.git)"
 cd URL-shortner
